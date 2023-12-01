@@ -23,7 +23,7 @@ This project is a simple, yet interactive webpage designed for beginners in web 
 
 ### 🌐 Live Demo
 
-You can view the live demo of this project [here](https://change-3r1e9at6e-codersgyan.vercel.app)
+You can view the live demo of this project [here](https://change-bg-ten.vercel.app/)
 
 ### 📸 How it looks?
 
