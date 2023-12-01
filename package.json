@@ -1,0 +1,24 @@
+{
+  "name": "changebg",
+  "version": "1.0.0",
+  "description": "## Level: 👶🏽 Beginner",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codersgyan/background-color-changer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codersgyan/background-color-changer/issues"
+  },
+  "homepage": "https://github.com/codersgyan/background-color-changer#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.5",
+    "@types/jest": "^29.5.10",
+    "jest": "^29.7.0"
+  }
+}
